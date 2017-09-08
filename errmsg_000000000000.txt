@@ -1,0 +1,25 @@
+The command git -C /var/www/html/slot-init/slot001 commit -m Add file change to branch slot001-6 failed.
+
+Exit Code: 128(Invalid exit argument)
+
+Working directory: /var/www/html/gu-skd-cms
+
+Output:
+================
+
+
+Error Output:
+================
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email you@example.com
+  git config --global user.name Your Name
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: empty ident name (for <fiwa@mobilevpn.top>) not allowed
+
